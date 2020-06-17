@@ -27,6 +27,7 @@ img  { max-width:100%; height:auto; }
 /*-------| PAGE |--------------------------------------------------*/
 body           { margin:0 auto; min-height:100%; }
 .PAGE_CONTENT  { max-width:1900px; margin:0 auto; }
+.p             { margin-bottom:20px; }
 /*-----------------------------------------------------------------*/
 
 
