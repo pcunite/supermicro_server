@@ -27,7 +27,8 @@ img  { max-width:100%; height:auto; }
 /*-------| PAGE |--------------------------------------------------*/
 body           { margin:0 auto; min-height:100%; }
 .PAGE_CONTENT  { max-width:1900px; margin:0 auto; }
-.p             { margin-bottom:20px; }
+h1             { margin-bottom:20px; font-weight: bold; font-size: 1.5em;  }
+p              { margin-bottom:20px; }
 /*-----------------------------------------------------------------*/
 
 
@@ -51,8 +52,3 @@ body           { margin:0 auto; min-height:100%; }
 {
 }
 /*-----------------------------------------------------------------*/
-
-
-
-
-
